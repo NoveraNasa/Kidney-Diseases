@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: http://github.com/NoveraNasa/Kidney-Diseases
+Author: NoveraNasa
+Author-email: professionaltec972@gmail.com
+Project-URL: Bug Traker, http://github.com/NoveraNasa/Kidney-Diseases/issues
+
+# Kidney-Diseases
+Complete End to End Deep Learning Project With MLFLOW,DVC And Deployment
